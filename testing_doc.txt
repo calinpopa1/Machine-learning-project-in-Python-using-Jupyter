@@ -1,0 +1,102 @@
+[ yields/NNS ] on/IN [ money-market/JJ mutual/JJ funds/NNS ] continued/VBD to/TO slide/VB ,/, amid/IN [ signs/NNS ] that/IN [ portfolio/NN managers/NNS ] expect/VBP [ further/JJ declines/NNS ] in/IN [ interest_6/NN rates/NNS ] ./. 
+$$
+====================================== [ finmeccanica/NP ] is/VBZ [ an/DT italian/JJ state-owned/JJ holding/VBG company/NN ] with/IN [ interests_5/NNS ] in/IN [ the/DT mechanical/JJ engineering/NN industry/NN ] ./. 
+$$
+====================================== [ reuters/NP holdings/NP plc/NP ] said/VBD [ michael/NP reupke/NP ] resigned/VBD as/IN [ general/JJ manager/NN ] to/TO pursue/VB [ unspecified/JJ interests_3/NNS ] ,/, [ a/DT move/NN ] [ the/DT news/NN organization/NN ] termed/VBD [ an/DT ] ``/`` [ amicable/JJ separation/NN ] ./. 
+$$
+====================================== [ prosecutors/NNS ] ,/, in/IN [ an/DT indictment/NN ] based/VBN on/IN [ the/DT grand/JJ jury/NN 's/POS report/NN ] ,/, maintain/VBP that/IN at/IN [ various/JJ times/NNS ] since/IN [ 1975/AB ] ,/, [ he/PP ] owned/VBD [ a/DT secret/JJ ] and/CC [ illegal/JJ interest_5/NN ] in/IN [ a/DT beer/NN distributorship/NN ] ;/: plotted/VBD hidden/JJ [ ownership/NN *interests/NNS ] in/IN [ real/JJ estate/NN ] [ that/WDT ] presented/VBD [ an/DT alleged/JJ conflict/NN ] of/IN [ *interest/NN ] ;/: set/VBN up/RP [ a/DT dummy/JJ corporation/NN ] to/TO buy/VB [ a/DT car/NN ] and/CC obtain/VB [ insurance/NN ] for/IN [ his/PP$ former/JJ girlfriend/NN ] (/( now/RB [ his/PP$ second/JJ wife/NN ] )/) ;/: and/CC maintained/VBD [ 54/AB accounts/NNS ] in/IN [ six/AB banks/NNS ] in/IN [ cambria/NP county/NP ] ./.
+$$
+[ there/EX ] are/VBP [ $/$ 19.2/AB million/AB ] of/IN [ 7/AB 14/AB %/NN current/JJ interest_6/NN term/NN bonds/NNS ] priced/VBN at/IN [ 96.965/AB ] to/TO yield/VB [ 7.55/AB %/NN ] in/IN [ 2009/AB ] and/CC [ $/$ 65.6/AB million/AB ] of/IN [ 7/AB 14/AB %/NN current/JJ *interest/NN term/NN bonds/NNS ] priced/VBN at/IN [ 95.336/AB ] to/TO yield/VB [ 7.65/AB %/NN ] in/IN [ 2019/AB ] ./. 
+$$
+====================================== [ profit/NN ] after/IN [ taxes/NNS ] and/CC [ minority/NN interests_5/NNS ] advanced/VBD [ 22/AB %/NN ] to/TO #/# [ 95.1/AB million/AB ] ,/, or/CC [ 13.2/AB pence/NN ] [ a/DT share/NN ] ,/, from/IN [ #/# 78.2/AB million/AB ] ,/, or/CC [ 11/AB pence/NN ] ,/, in/IN [ the/DT first/JJ six/AB months/NNS ] of/IN [ 1988/AB ] ./. 
+$$
+====================================== [ profit/NN ] after/IN [ taxes/NNS ] and/CC [ minority/NN interests_5/NNS ] ,/, or/CC [ profit/NN ] attributable/JJ to/TO [ shareholders/NNS ] ,/, rose/VBD [ 20/AB %/NN ] to/TO #/# [ 690/AB million/AB ] ,/, or/CC [ 92.4/AB pence/NN ] (/( [ $/$ 1.45/AB ] )/) [ a/DT share/NN ] ,/, from/IN [ #/# 576/AB million/AB ] ,/, or/CC [ 77.1/AB pence/NN ] [ a/DT share/NN ] ./. 
+$$
+because/IN [ they/PP ] offer/VBP [ a/DT chance/NN ] at/IN [ making/VBG money/NN ] on/IN [ the/DT stock/NN ] ,/, [ the/DT bonds/NNS ] pay/VB [ very/RB low/JJ interest_6/NN rates/NNS ] ./. 
+$$
+====================================== so/IN far/RB ,/, [ there/EX ] 's/VBZ [ no/DT dearth/NN ] of/IN [ interest_1/NN ] in/IN helping/VBG [ hanwa/NP ] raise/VB [ money/NN ] ./. 
+$$
+[ calmat/NP 's/POS interests_5/NNS ] include/VBP [ concrete/NN ] ,/, [ asphalt/NN ] and/CC [ land/NN development/NN ] ./. 
+$$
+====================================== [ bond/NP corp./NP ] also/RB agreed/VBD yesterday/NN to/TO sell/VB [ its/PP$ 67.7/AB %/NN interest_5/NN ] in/IN [ the/DT harriet/NP oil/NN field/NN ] ,/, off/IN [ the/DT northwestern/JJ coast/NN ] of/IN [ australia/NP ] ,/, for/IN [ a$/$ 220/NP million/AB ] --/: at/IN [ an/DT undisclosed/JJ profit/NN ] --/: to/TO [ aviva/NP petroleum/NP inc./NP ] ,/, [ a/DT small/JJ ] ,/, [ british-based/JJ independent/JJ oil/NN concern/NN ] ./. 
+$$
+[ the/DT new/NP zealand/NP company/NN ] also/RB has/VBZ agreed/VBN to/TO arrange/VB [ funds/NNS ] for/IN [ bell/NP resources/NPS ] to/TO buy/VB back/RB about/IN [ a$/$ 600/AB million/AB ] of/IN [ bonds/NNS ] [ it/PP ] has/VBZ issued/VBN that/IN are/VBP convertible/JJ into/IN [ bell/NP resources/NPS ] shares/NNS ,/, and/CC to/TO arrange/VB [ funds/NNS ] to/TO repurchase/VB [ an/DT undisclosed/JJ amount/NN ] of/IN [ subordinated/VBN debentures/NNS ] issued/VBN by/IN [ bond/NP corp./NP ] brewing/NN [ interests_5/NNS ] ./. 
+$$
+====================================== [ the/DT merc/NP ] alleged/VBD that/IN [ siegel/NP trading/NP ] ``/`` favored/VBN [ its/PP$ own/JJ ] rather/RB than/IN [ customers/NNS '/POS best/JJS interests_4/NNS ] ''/'' by/IN making/VBG [ trades/NNS ] in/IN [ customers/NNS '/POS accounts/NNS ] without/IN [ their/PP$ approval/NN ] ./. 
+$$
+====================================== [ tuesday/NP ] ,/, [ september/NP 19/AB ] ,/, [ 1989/AB ] ====================================== [ the/DT key/JJ u.s./NP ] and/CC [ foreign/JJ annual/JJ interest_6/NN rates/NNS ] below/IN are/VBP [ a/DT guide/NN ] to/TO [ general/JJ levels/NNS ] but/CC do/VBP n't/RB always/RB represent/VB [ actual/JJ transactions/NNS ] ./. 
+$$
+[ he/PP ] noted/VBD that/IN [ institutional/JJ investors/NNS ] showed/VBD ``/`` pretty/RB general/JJ ''/'' [ interest_1/NN ] in/IN [ stocks/NNS ] in/IN [ the/DT latest/JJS session/NN ] ./. 
+$$
+====================================== [ abc/NP 's/POS baseball/NN experience/NN ] may/MD be/VB of/IN [ interest_2/NN ] to/TO [ cbs/NP inc./NP ] ,/, [ which/WDT ] [ next/JJ season/NN ] takes/VBZ over/RP [ the/DT broadcasting/NN ] of/IN [ all/DT baseball/NN playoffs/NNS ] in/IN [ a/DT four-year/JJ television/NN contract/NN ] priced/VBN at/IN [ $/$ 1.06/AB billion/AB ] ./. 
+$$
+====================================== here/RB are/VBP [ details/NNS ] of/IN [ yesterday/NN 's/POS 51-day/JJ cash/NN management/NN bill/NN auction/NN ] :/: ====================================== [ interest_6/NN rate/NN 8.07/AB %/NN ] [ the/DT bills/NNS ] are/VBP dated/VBN [ oct./NP 31/AB ] and/CC [ mature/NP dec./NP 21/AB ] ,/, [ 1989/AB ] ./. 
+$$
+====================================== in/IN [ june/NP ] ,/, [ western/NP union/NP ] was/VBD forced/VBN to/TO reset/VB [ the/DT interest_6/NN rate/NN ] on/IN [ the/DT senior/JJ secured/VBN notes/NNS ] due/RB in/IN [ 1992/AB ] to/TO [ 19/AB 14/AB %/NN ] from/IN [ 16/AB 12/AB %/NN ] ,/, [ a/DT move/NN ] [ which/WDT ] increased/VBD [ the/DT firm/NN 's/POS annual/JJ *interest/NN payments/NNS ] by/IN [ $/$ 13.8/AB million/AB ] ./. 
+$$
+====================================== in/IN [ june/NP ] ,/, [ western/NP union/NP ] was/VBD forced/VBN to/TO reset/VB [ the/DT *interest/NN rate/NN ] on/IN [ the/DT senior/JJ secured/VBN notes/NNS ] due/RB in/IN [ 1992/AB ] to/TO [ 19/AB 14/AB %/NN ] from/IN [ 16/AB 12/AB %/NN ] ,/, [ a/DT move/NN ] [ which/WDT ] increased/VBD [ the/DT firm/NN 's/POS annual/JJ interest_6/NN payments/NNS ] by/IN [ $/$ 13.8/AB million/AB ] ./. 
+$$
+``/`` [ my/PP$ impression/NN ] is/VBZ that/IN [ there/EX ] is/VBZ n't/RB [ anything/NN ] [ which/WDT ] arouses/VBZ [ our/PP$ interest_1/NN ] at/IN [ first/JJ glance/NN ] ,/, ''/'' says/VBZ [ an/DT official/NN ] from/IN [ japan/NP 's/POS ministry/NP ] of/IN [ international/NP trade/NP ] and/CC [ industry/NP ] ./. 
+$$
+[ the/DT survey/NN ] also/RB detected/VBD [ a/DT bit/NN more/JJR interest_1/NN ] in/IN [ golf/NN ] ,/, [ a/DT positive/JJ sign/NN ] for/IN [ country/NN clubs/NNS ] and/CC [ golf/NN club/NN makers/NNS ] ./. 
+$$
+====================================== [ the/DT central/JJ bank/NN ] also/RB unexpectedly/RB raised/VBD [ the/DT base/NN rate/NN ] by/IN [ half/PDT a/DT percentage/NN point/NN ] to/TO [ 3.75/AB %/NN oct./NP 11/AB ] as/IN [ part/NN ] of/IN [ an/DT inflation-fighting/JJ move/NN ] [ that/WDT ] indirectly/RB increases/VBZ [ interest_6/NN rates/NNS ] charged/VBN on/IN [ new/JJ home/NN construction/NN loans/NNS ] ./. 
+$$
+====================================== [ analysts/NNS ] also/RB say/VBP [ it/PP ] 's/VBZ inevitable/JJ that/IN [ brazil/NP ] will/MD seek/VB to/TO renegotiate/VB [ its/PP$ $/$ 115/AB billion/AB foreign/JJ debt/NN ] ,/, on/IN [ which/WDT ] [ it/PP ] suspended/VBD [ interest_6/NN payments/NNS last/JJ month/NN ] ./. 
+$$
+[ it/PP ] reflects/VBZ [ values/NNS ] of/IN [ a/DT generation/NN ] [ that/WDT ] wants/VBZ [ more/JJR time/NN ] for/IN [ families/NNS ] and/CC [ personal/JJ interests_3/NNS ] ,/, says/VBZ [ john/NP h./NP moxley/NP iii/NP ] ,/, [ who/WP ] directs/VBZ [ physician-executive/JJ searches/NNS ] for/IN [ kornferry/NP international/NP ] ./. 
+$$
+[ the/DT approach/NN ] has/VBZ generated/VBN [ so/RB much/JJ interest_1/NN ] that/IN [ nyu/NP ] is/VBZ [ host/NN ] to/TO [ the/DT first/JJ conference/NN ] on/IN [ cooperative/JJ care/NN nov./NP 30/AB ] ./. 
+$$
+====================================== [ investor/NN interest_1/NN ] in/IN [ stock/NN funds/NNS ] ``/`` [ has/VBZ n't/RB ] stalled/VBN at/IN [ all/DT ] ,/, ''/'' [ mr./NP hines/NP ] maintains/VBZ ./. 
+$$
+''/'' ====================================== [ it/PP ] is/VBZ in/IN [ the/DT western/JJ interest_4/NN ] to/TO see/VB [ mr./NP gorbachev/NP ] succeed/VB ./. 
+$$
+====================================== [ revco/NP ] insists/VBZ that/IN [ the/DT proposal/NN ] is/VBZ simply/RB [ an/DT ] ``/`` [ expression/NN ] of/IN [ interest_1/NN ] ,/, ''/'' because/IN under/IN [ chapter/NP 11/AB revco/NP ] has/VBZ ``/`` [ exclusivity/NN rights/NNS ] ''/'' until/IN [ feb./NP 28/AB ] ./. 
+$$
+====================================== to/TO ensure/VB [ the/DT loyalty/NN ] of/IN [ the/DT business/NN sector/NN ] ,/, [ mr./NP gorbachev/NP ] may/MD offer/VB [ concessions/NNS ] and/CC [ powers/NNS ] [ that/WDT ] will/MD allow/VB [ the/DT business/NN community/NN ] to/TO preserve/VB [ its/PP$ own/JJ interests_4/NNS ] ,/, probably/RB by/IN [ restricting/VBG competition/NN ] ./. 
+$$
+====================================== [ quotron/NP ] is/VBZ n't/RB profitable/JJ on/IN [ citicorp/NP 's/POS books/NNS ] because/IN of/IN [ the/DT interest_6/NN ] charges/VBZ [ the/DT new/NP york/NP bank/NN holding/VBG company/NN ] incurred/VBD in/IN buying/VBG [ the/DT financial-data/JJ concern/NN ] for/IN [ $/$ 680/AB million/AB ] ,/, says/VBZ [ ronald/NP i./NP mandle/NP ] ,/, [ analyst/NN ] for/IN [ sanford/NP c./NP bernstein/NP ] &/CC [ co/NP ] ./. 
+$$
+====================================== [ abc/NP 's/POS baseball/NN experience/NN ] may/MD be/VB of/IN [ interest_2/NN ] to/TO [ cbs/NP inc./NP ] ,/, [ which/WDT ] [ next/JJ season/NN ] takes/VBZ over/RP [ the/DT broadcasting/NN ] of/IN [ all/DT baseball/NN playoffs/NNS ] in/IN [ a/DT four-year/JJ television/NN contract/NN ] priced/VBN at/IN [ $/$ 1.06/AB billion/AB ] ./. 
+$$
+but/CC [ interest_1/NN ] instead/RB decreased/VBD ./. 
+$$
+but/CC [ interest_1/NN ] waned/VBD as/IN [ the/DT day/NN ] wore/VBD on/RB and/CC [ investors/NNS ] looked/VBD ahead/RB to/TO [ the/DT release/NN ] later/RB [ this/DT week/NN ] of/IN [ two/AB important/JJ economic/JJ reports/NNS ] ./. 
+$$
+====================================== [ monday/NP ] ,/, [ october/NP 30/AB ] ,/, [ 1989/AB ] ====================================== [ the/DT key/JJ u.s./NP ] and/CC [ foreign/JJ annual/JJ interest_6/NN rates/NNS ] below/RB are/VBP [ a/DT guide/NN ] to/TO [ general/JJ levels/NNS ] but/CC do/VBP n't/RB always/RB represent/VB [ actual/JJ transactions/NNS ] ./. 
+$$
+====================================== annualized/VBN [ interest_6/NN rates/NNS ] on/IN [ certain/JJ investments/NNS ] as/IN reported/VBN by/IN [ the/DT federal/NP reserve/NP board/NP ] on/IN [ a/DT weekly-average/JJ basis/NN ] :/: ====================================== [ a-discounted/VBN rate/NN ] ./. 
+$$
+====================================== [ western/NP union/NP ] had/VBD said/VBD [ two/AB weeks/NNS ] ago/RB that/IN [ it/PP ] might/MD withdraw/VB [ the/DT pending/VBG offer/NN ] ,/, [ which/WDT ] would/MD have/VB replaced/VBN [ $/$ 500/AB million/AB ] in/IN [ so-called/JJ reset/JJ notes/NNS ] ,/, now/RB paying/VBG [ 19.25/AB %/NN annual/JJ interest_6/NN ] and/CC set/VBN to/TO come/VB due/RB in/IN [ 1992/AB ] ,/, with/IN [ two/AB new/JJ issues/NNS ] paying/VBG [ lower/JJR *interest/NN ] ./. 
+$$
+====================================== [ western/NP union/NP ] had/VBD said/VBD [ two/AB weeks/NNS ] ago/RB that/IN [ it/PP ] might/MD withdraw/VB [ the/DT pending/VBG offer/NN ] ,/, [ which/WDT ] would/MD have/VB replaced/VBN [ $/$ 500/AB million/AB ] in/IN [ so-called/JJ reset/JJ notes/NNS ] ,/, now/RB paying/VBG [ 19.25/AB %/NN annual/JJ *interest/NN ] and/CC set/VBN to/TO come/VB due/RB in/IN [ 1992/AB ] ,/, with/IN [ two/AB new/JJ issues/NNS ] paying/VBG [ lower/JJR interest_6/NN ] ./. 
+$$
+[ the/DT notes/NNS ] became/VBD [ burdensome/JJ ] when/WRB [ reset/NN provisions/NNS ] allowed/VBD [ their/PP$ interest_6/NN rate/NN ] to/TO be/VB raised/VBN to/TO [ 19.25/AB %/NN last/JJ june/NP ] ./. 
+$$
+====================================== [ western/NP union/NP ] had/VBD offered/VBN to/TO swap/VB [ each/DT $/$ 1,000/AB face/NN amount/NN ] of/IN [ the/DT notes/NNS ] for/IN [ six/AB shares/NNS ] of/IN [ common/JJ stock/NN ] and/CC [ two/AB new/JJ debt/NN issues/NNS ] :/: [ a/DT $/$ 500/AB note/NN ] paying/VBG [ an/DT interest_6/NN rate/NN ] starting/VBG at/IN [ 16.75/AB %/NN ] annually/RB and/CC rising/VBG in/IN [ later/JJ years/NNS ] ,/, due/RB in/IN [ 1992/AB ] ,/, and/CC [ a/DT $/$ 500/AB note/NN ] ,/, due/RB in/IN [ 1997/AB ] ,/, paying/VBG [ a/DT fixed/VBN rate/NN ] of/IN [ 17/AB %/NN ] and/CC [ including/VBG rights/NNS ] protecting/VBG [ a/DT holder/NN ] against/IN [ a/DT decline/NN ] in/IN [ the/DT trading/NN price/NN ] of/IN [ the/DT bond/NN ] ./. 
+$$
+====================================== [ western/NP union/NP ] must/MD make/VB [ $/$ 48/AB million/AB ] in/IN [ interest_6/NN payments/NNS ] on/IN [ the/DT reset/NN notes/NNS ] on/IN [ dec./NP 15/AB ] ,/, and/CC [ a/DT company/NN spokesman/NN ] said/VBD [ it/PP ] fully/RB intends/VBZ to/TO meet/VB [ the/DT payments/NNS ] ./. 
+$$
+but/CC [ western/NP union/NP ] has/VBZ said/VBD [ it/PP ] must/MD lower/VB [ the/DT interest_6/NN rate/NN ] on/IN [ its/PP$ debt/NN ] to/TO regain/VB [ full/JJ financial/JJ health/NN ] ./. 
+$$
+====================================== [ munich-based/JJ allianz/NP 's/POS brief/JJ explanatory/JJ statement/NN ] said/VBD [ it/PP ] is/VBZ acting/VBG to/TO protect/VB [ its/PP$ own/JJ interests_4/NNS ] as/IN [ a/DT shareholder/NN ] of/IN [ navigation/NP mixte/NP ] ./. 
+$$
+[ allianz/NP ] said/VBD in/IN [ its/PP$ statement/NN ] that/IN [ it/PP ] was/VBD acting/VBG to/TO protect/VB [ that/DT interest_5/NN ] ,/, [ which/WDT ] ties/VBZ [ it/PP ] to/TO [ navigation/NP mixte/NP ] as/IN [ a/DT partner/NN ] ./. 
+$$
+====================================== [ fletcher/NP challenge/NP ltd./NP ] said/VBD [ its/PP$ petrocorp/NP unit/NN ] agreed/VBD to/TO acquire/VB [ certain/JJ alberta/NP oil/NN ] and/CC [ gas/NN interests_5/NNS ] from/IN [ amoco/NP corp./NP 's/POS canadian/JJ unit/NN ] ,/, for/IN about/RB [ 130/AB million/AB canadian/JJ dollars/NNS ] (/( [ us$/$ 110.6/AB million/AB ] )/) ./. 
+$$
+====================================== [ mercury/NP ] attributed/VBD [ the/DT loss/NN ] to/TO [ rapid/JJ prepayments/NNS ] of/IN [ loans/NNS ] and/CC [ costs/NNS ] incurred/VBN in/IN refinancing/VBG [ many/JJ house/NN loans/NNS ] [ this/DT past/JJ spring/NN ] and/CC [ summer/NN ] ,/, when/WRB [ interest_6/NN rates/NNS ] dipped/VBD ./. 
+$$
+====================================== [ james/NP river/NP ] ,/, [ a/DT maker/NN ] of/IN [ pulp/NN ] ,/, [ paper/NN ] and/CC [ plastic/NN products/NNS ] ,/, already/RB has/VBZ [ interests_5/NNS ] in/IN [ tissue/NN businesses/NNS ] in/IN [ france/NP ] ,/, [ spain/NP ] ,/, [ italy/NP ] and/CC [ turkey/NP ] ./. 
+$$
+====================================== [ comments/NNS ] by/IN [ john/NP major/NP ] ,/, [ who/WP ] has/VBZ succeeded/VBN [ mr./NP lawson/NP ] ,/, also/RB failed/VBD to/TO damp/VB [ market/NN concern/NN ] ,/, despite/IN [ his/PP$ pledge/NN ] to/TO maintain/VB relatively/RB [ high/JJ british/JJ interest_6/NN rates/NNS ] ./. 
+$$
+====================================== according/VBG to/TO [ one/AB london-based/JJ analyst/NN ] ,/, even/RB [ higher/JJR interest_6/NN rates/NNS ] wo/MD n't/RB help/VB [ the/DT pound/NN ] if/IN [ britain/NP 's/POS government/NN ] continues/VBZ to/TO appear/VB [ unstable/JJ ] ./. 
+$$
+====================================== [ rockefeller/NP group/NP ] agreed/VBD to/TO sell/VB [ a/DT 51/AB %/NN interest_5/NN ] to/TO [ mitsubishi/NP estate/NP ] ,/, [ a/DT major/JJ japanese/JJ developer/NN ] and/CC [ property/NN owner/NN ] ,/, for/IN [ $/$ 846/AB million/AB ] ./. 
+$$
+====================================== [ cray/NP research/NP ] will/MD retain/VB [ a/DT 10/AB %/NN interest_5/NN ] in/IN [ the/DT new/JJ company/NN ] ,/, [ which/WDT ] will/MD be/VB based/VBN in/IN [ colorado/NP springs/NP ] ,/, [ colo/NP ] ./. 
+$$
+====================================== [ bio-technology/NP ] ,/, [ a/DT new/NP york/NP maker/NN ] of/IN genetically/RB engineered/VBN [ products/NNS ] for/IN [ human/NN ] and/CC [ animal/NN health/NN care/NN ] ,/, said/VBD [ it/PP ] made/VBD [ the/DT exchange/NN ] offer/NN to/TO reduce/VB [ its/PP$ interest_6/NN payments/NNS ] ./. 
+$$
